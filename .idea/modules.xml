@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/B11_CountWords/B11_CountWords.iml" filepath="$PROJECT_DIR$/B11_CountWords/B11_CountWords.iml" />
       <module fileurl="file://$PROJECT_DIR$/B11_TH1/B11_TH1.iml" filepath="$PROJECT_DIR$/B11_TH1/B11_TH1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bai11_TH2/Bai11_TH2.iml" filepath="$PROJECT_DIR$/Bai11_TH2/Bai11_TH2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Bài 11.iml" filepath="$PROJECT_DIR$/.idea/Bài 11.iml" />
